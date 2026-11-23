@@ -1,0 +1,9 @@
+# Dépendances et fichiers générés
+node_modules/
+.dart_tool/
+build/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

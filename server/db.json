@@ -1,0 +1,79 @@
+{
+  "taches": [
+    {
+      "id": 1,
+      "title": "TP Flutter : écran Échéances",
+      "courseId": "mobile",
+      "dueDate": "2026-11-27T23:59:00",
+      "description": "Scaffold, AppBar, ListView.builder, bouton flottant et NavigationBar.",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Exposé sécurité réseau",
+      "courseId": "securite",
+      "dueDate": "2026-11-20T08:00:00",
+      "description": "Dix minutes sur les attaques par hameçonnage, avec deux exemples réels.",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "Lecture chapitre 4",
+      "courseId": "projet",
+      "dueDate": "2026-11-29T18:00:00",
+      "description": "",
+      "done": true
+    },
+    {
+      "id": 4,
+      "title": "Quiz Dart",
+      "courseId": "mobile",
+      "dueDate": "2026-12-03T10:00:00",
+      "description": "Révisions : async/await, Future, copyWith.",
+      "done": false
+    },
+    {
+      "id": 5,
+      "title": "Projet base de données",
+      "courseId": "bdd",
+      "dueDate": "2026-12-07T23:59:00",
+      "description": "Modèle conceptuel et script SQL de création.",
+      "done": false
+    }
+  ],
+  "cours": [
+    {
+      "id": "mobile",
+      "name": "Programmation mobile",
+      "teacher": "M. Ouattara",
+      "room": "Salle B12"
+    },
+    {
+      "id": "securite",
+      "name": "Sécurité des SI",
+      "teacher": "Mme Sawadogo",
+      "room": "Amphi A"
+    },
+    {
+      "id": "projet",
+      "name": "Gestion de projet",
+      "teacher": "M. Traoré",
+      "room": "Salle C04"
+    },
+    {
+      "id": "bdd",
+      "name": "Bases de données avancées",
+      "teacher": "Mme Kaboré",
+      "room": "Labo 2"
+    }
+  ],
+  "utilisateurs": [
+    {
+      "id": 1,
+      "name": "Awa Ouédraogo",
+      "email": "awa@campus.bf",
+      "password": "campus2026",
+      "program": "Licence 3 Informatique"
+    }
+  ]
+}

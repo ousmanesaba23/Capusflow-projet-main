@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 860" width="400" height="860" font-family="Arial, Helvetica, sans-serif">
+<rect width="400" height="860" fill="#FFFFFF"/>
+<text x="20" y="30" font-size="17" font-weight="700" fill="#2B2B2B">Écran 1 — Connexion (/login)</text>
+<text x="20" y="52" font-size="12" fill="#8A8A8A">Point d'entrée ; jeton stocké de façon sécurisée (séance 7)</text>
+<rect x="14" y="64" width="372" height="752" rx="30" fill="none" stroke="#2B2B2B" stroke-width="3"/>
+<rect x="20" y="70" width="360" height="740" rx="24" fill="#FFFFFF" stroke="none"/>
+<clipPath id="screen"><rect x="20" y="70" width="360" height="740" rx="24"/></clipPath>
+<g clip-path="url(#screen)">
+<text x="36" y="88" font-size="12" font-weight="600" fill="#2B2B2B">08:15</text><text x="364" y="88" font-size="11" font-weight="400" fill="#2B2B2B" text-anchor="end">4G ▮▮▮  62 %</text>
+<circle cx="200" cy="220" r="40" fill="#F2F2F2" stroke="#8A8A8A" stroke-width="1.5"/><text x="200" y="228" font-size="22" font-weight="700" fill="#2B2B2B" text-anchor="middle">CF</text><text x="200" y="298" font-size="26" font-weight="700" fill="#2B2B2B" text-anchor="middle">CampusFlow</text><text x="200" y="322" font-size="13" font-weight="400" fill="#8A8A8A" text-anchor="middle">Vos cours et vos échéances, même hors ligne</text><text x="36" y="374" font-size="12" font-weight="600" fill="#8A8A8A">Adresse e-mail</text><rect x="36" y="380" width="328" height="56" rx="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/><text x="50" y="414" font-size="15" font-weight="400" fill="#2B2B2B">awa@campus.bf</text><text x="36" y="464" font-size="12" font-weight="600" fill="#8A8A8A">Mot de passe</text><rect x="36" y="470" width="328" height="56" rx="12" fill="none" stroke="#8A8A8A" stroke-width="1.5"/><text x="50" y="504" font-size="15" font-weight="400" fill="#2B2B2B">••••••••</text><text x="350" y="504" font-size="16" font-weight="400" fill="#2B2B2B" text-anchor="end">👁</text><rect x="36" y="560" width="328" height="48" rx="12" fill="#4A4A4A" stroke="none" stroke-width="1.5"/><text x="200" y="590" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">Se connecter</text><text x="200" y="642" font-size="14" font-weight="600" fill="#2B2B2B" text-anchor="middle">Mot de passe oublié ?</text><text x="200" y="770" font-size="11" font-weight="400" fill="#8A8A8A" text-anchor="middle">Université — Master 1</text>
+</g>
+<text x="20" y="836" font-size="11" fill="#8A8A8A">Pas de barre de navigation : l'utilisateur doit être connecté.</text>
+<text x="20" y="852" font-size="11" fill="#8A8A8A">Message d'erreur clair si identifiants refusés (401).</text>
+</svg>
